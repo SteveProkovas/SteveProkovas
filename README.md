@@ -1,6 +1,6 @@
 # Steve Prokovas
 
-## Professional Summary
+## Summary
 
 I am an undergraduate in Computer Science specializing in the intersection of pure and computational mathematics, artificial intelligence, and robotics. My research and development efforts emphasize mathematical rigor, algorithmic precision, and systems engineering to address complex challenges in biomedical analysis, motion optimization, and intelligent decision making.
 
